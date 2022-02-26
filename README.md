@@ -1,6 +1,6 @@
 # What is it?
 
-a very simple script to cheat in bitburner.
+a very simple script to cheat in bitburner (https://github.com/danielyxie/bitburner).
 
 Just save your game and export it. Next edit the variables written in capital letters at the beginning of the main.py. Finally, run the script and import the hacked output file into your game.
 
