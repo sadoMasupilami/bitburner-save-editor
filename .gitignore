@@ -1,0 +1,5 @@
+venv/
+.idea/
+hack.json
+out.json
+bitburner.json
